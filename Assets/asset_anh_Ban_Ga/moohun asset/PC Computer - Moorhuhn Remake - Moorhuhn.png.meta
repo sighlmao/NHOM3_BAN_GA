@@ -1,0 +1,1692 @@
+fileFormatVersion: 2
+guid: 7f1cd1ef011f5da419211ed5396be575
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1406805054784710485
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_0
+  - first:
+      213: 6902219410457868149
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_1
+  - first:
+      213: 8168010127242733419
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_2
+  - first:
+      213: -7820539461121177316
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_3
+  - first:
+      213: -3028699971891798142
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_4
+  - first:
+      213: 6376402438239824293
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_5
+  - first:
+      213: 3814278546301049474
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_6
+  - first:
+      213: -6572580142978585253
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_7
+  - first:
+      213: 5217320515143565666
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_8
+  - first:
+      213: -6454387303103984302
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_9
+  - first:
+      213: -7547286904843685299
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_10
+  - first:
+      213: 1623525639120001930
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_11
+  - first:
+      213: 3970326102509433475
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_12
+  - first:
+      213: 5208745224903757023
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_13
+  - first:
+      213: -1812810669114506809
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_14
+  - first:
+      213: 6284775186698460441
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_15
+  - first:
+      213: -1702806619029833034
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_16
+  - first:
+      213: 4232690595283027456
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_17
+  - first:
+      213: -6135436209225125227
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_18
+  - first:
+      213: 8778221568567624515
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_19
+  - first:
+      213: 2440865818843684643
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_20
+  - first:
+      213: 8502848530271946761
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_21
+  - first:
+      213: -7562361082672186948
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_22
+  - first:
+      213: -3222392948052638477
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_23
+  - first:
+      213: -8357860795259405536
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_24
+  - first:
+      213: -3893444312739514357
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_25
+  - first:
+      213: -1469071951914185303
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_26
+  - first:
+      213: -6317729466375345186
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_27
+  - first:
+      213: -18250212528987270
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_28
+  - first:
+      213: 5170563276673249194
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_29
+  - first:
+      213: 6064781842052736358
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_30
+  - first:
+      213: -2251592633585379474
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_31
+  - first:
+      213: -5362262831798370805
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_32
+  - first:
+      213: -8980375143013298854
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_33
+  - first:
+      213: -532461268803043371
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_34
+  - first:
+      213: 8043685023359679658
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_35
+  - first:
+      213: -3608692370126566320
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_36
+  - first:
+      213: -1098733095717830945
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_37
+  - first:
+      213: 80612057430313950
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_38
+  - first:
+      213: -726124791625677901
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_39
+  - first:
+      213: -1309884411500058885
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_40
+  - first:
+      213: 8773113402556005856
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_41
+  - first:
+      213: -5924826831901888256
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_42
+  - first:
+      213: 1665825173493996405
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_43
+  - first:
+      213: -4152858515251422287
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_44
+  - first:
+      213: -2703900031805681789
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_45
+  - first:
+      213: -3580987976232622283
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_46
+  - first:
+      213: 8510370828135192145
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_47
+  - first:
+      213: -1108412295701905973
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_48
+  - first:
+      213: -6761674982558441628
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_49
+  - first:
+      213: -4894732263245974175
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_50
+  - first:
+      213: -6834004411857609251
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_51
+  - first:
+      213: 2472370175867878247
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_52
+  - first:
+      213: -475184779520899258
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_53
+  - first:
+      213: 4287496708633976130
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_54
+  - first:
+      213: -7954930611643506119
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_55
+  - first:
+      213: -4030863766733129599
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_56
+  - first:
+      213: 2682724948208615934
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_57
+  - first:
+      213: 2231736610453187999
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_58
+  - first:
+      213: 7681590207363943732
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_59
+  - first:
+      213: -5310189296168769696
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_60
+  - first:
+      213: 3980473852661988374
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_61
+  - first:
+      213: 5385571182056828151
+    second: PC Computer - Moorhuhn Remake - Moorhuhn_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1868
+        width: 110
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557aaa66eb9f58310800000000000000
+      internalID: 1406805054784710485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_1
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1848
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577b52afbfb99cf50800000000000000
+      internalID: 6902219410457868149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1889
+        width: 80
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67a81c4fe99a5170800000000000000
+      internalID: 8168010127242733419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1873
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1982fb8bccd77390800000000000000
+      internalID: -7820539461121177316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1950
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f572c1c65e7f5d0800000000000000
+      internalID: -3028699971891798142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_5
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1946
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a92834eb388d7850800000000000000
+      internalID: 6376402438239824293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_6
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1919
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28adaa2012a0fe430800000000000000
+      internalID: 3814278546301049474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_7
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1916
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5da9f7de2189c4a0800000000000000
+      internalID: -6572580142978585253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_8
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1884
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2618d70bd55a76840800000000000000
+      internalID: 5217320515143565666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1884
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d02b3d1f86d66a0800000000000000
+      internalID: -6454387303103984302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1851
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42b5da1c86a24790800000000000000
+      internalID: -7547286904843685299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_11
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1855
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b9c7b87fbe78610800000000000000
+      internalID: 1623525639120001930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1772
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3823986fd8e691730800000000000000
+      internalID: 3970326102509433475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1762
+        width: 69
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc86e75f2e294840800000000000000
+      internalID: 5208745224903757023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1819
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c144661d4a97d6e0800000000000000
+      internalID: -1812810669114506809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_15
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1823
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dd950fbb1083750800000000000000
+      internalID: 6284775186698460441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1720
+        width: 118
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bafa8fd66a6e58e0800000000000000
+      internalID: -1702806619029833034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1707
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0064bffaba98dba30800000000000000
+      internalID: 4232690595283027456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_18
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1789
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592311f464d8adaa0800000000000000
+      internalID: -6135436209225125227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_19
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1788
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3434522f10282d970800000000000000
+      internalID: 8778221568567624515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1760
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f129ca782bfd120800000000000000
+      internalID: 2440865818843684643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_21
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1755
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908cfc130bf200670800000000000000
+      internalID: 8502848530271946761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_22
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1728
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9f51499a81d0790800000000000000
+      internalID: -7562361082672186948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_23
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1722
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4499ccfa2c743d0800000000000000
+      internalID: -3222392948052638477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_24
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1642
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b366873e9e20c80800000000000000
+      internalID: -8357860795259405536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_25
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1644
+        width: 73
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b087562a605b7f9c0800000000000000
+      internalID: -3893444312739514357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1695
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad4aacd7decc9be0800000000000000
+      internalID: -1469071951914185303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1558
+        width: 100
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbeda9e58ae258a0800000000000000
+      internalID: -6317729466375345186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_28
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1661
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73622547892fbff0800000000000000
+      internalID: -18250212528987270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1555
+        width: 122
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafe9c2c7e781c740800000000000000
+      internalID: 5170563276673249194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_30
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1629
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665eac7e3fe6a2450800000000000000
+      internalID: 6064781842052736358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1519
+        width: 89
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67d140ed6cb0c0e0800000000000000
+      internalID: -2251592633585379474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_32
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1532
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eb06e6d5a6595b0800000000000000
+      internalID: -5362262831798370805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_33
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1596
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dc1f2336c4f5380800000000000000
+      internalID: -8980375143013298854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_34
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1565
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df37501c415c98f0800000000000000
+      internalID: -532461268803043371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_35
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1399
+        width: 123
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacbb7659e8e0af60800000000000000
+      internalID: 8043685023359679658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_36
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1418
+        width: 120
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c81f6b8695bedc0800000000000000
+      internalID: -3608692370126566320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_37
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1401
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdef5ce121480c0f0800000000000000
+      internalID: -1098733095717830945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_38
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1409
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb4fb73d346e1100800000000000000
+      internalID: 80612057430313950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_39
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1249
+        width: 124
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b30c8469594ce5f0800000000000000
+      internalID: -726124791625677901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1261
+        width: 101
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6a7bb511b52dde0800000000000000
+      internalID: -1309884411500058885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_41
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1287
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edb19d582c50c970800000000000000
+      internalID: 8773113402556005856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_42
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1283
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001f8c03369c6cda0800000000000000
+      internalID: -5924826831901888256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1105
+        width: 124
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b530c5b233e1710800000000000000
+      internalID: 1665825173493996405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_44
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1101
+        width: 82
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb9bf3ee251e56c0800000000000000
+      internalID: -4152858515251422287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_45
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1174
+        width: 87
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f0e083f31d97ad0800000000000000
+      internalID: -2703900031805681789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_46
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1159
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537a5b39866cd4ec0800000000000000
+      internalID: -3580987976232622283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 963
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15658d5ad29ea1670800000000000000
+      internalID: 8510370828135192145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_48
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 944
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd3302c3e02e90f0800000000000000
+      internalID: -1108412295701905973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_49
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1055
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f55f1ad64b922a0800000000000000
+      internalID: -6761674982558441628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_50
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1038
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1657492a0fa621cb0800000000000000
+      internalID: -4894732263245974175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_51
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 931
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd56cd023db821a0800000000000000
+      internalID: -6834004411857609251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 813
+        width: 115
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bffd5639f9f4220800000000000000
+      internalID: 2472370175867878247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 791
+        width: 75
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6470cfde5fdc769f0800000000000000
+      internalID: -475184779520899258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_54
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 807
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dd8c55a8f308b30800000000000000
+      internalID: 4287496708633976130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_55
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 655
+        width: 108
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932ab1871c86a9190800000000000000
+      internalID: -7954930611643506119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_56
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 686
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188f0e5b2ce7f08c0800000000000000
+      internalID: -4030863766733129599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_57
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 498
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef18d007024fa3520800000000000000
+      internalID: 2682724948208615934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_58
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 564
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9deb4a7f98b8fe10800000000000000
+      internalID: 2231736610453187999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_59
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 344
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d0c04489d7a9a60800000000000000
+      internalID: 7681590207363943732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_60
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 445
+        width: 74
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06767cf38fa6e46b0800000000000000
+      internalID: -5310189296168769696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_61
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 190
+        width: 100
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cf5a921eb7d3730800000000000000
+      internalID: 3980473852661988374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Moorhuhn_62
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 38
+        width: 102
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fce313c4746dba40800000000000000
+      internalID: 5385571182056828151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

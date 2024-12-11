@@ -1,0 +1,1017 @@
+fileFormatVersion: 2
+guid: 648d997fe7a010847853a0ef50602922
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8642541088333365124
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_0
+  - first:
+      213: 5281769010339430939
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_1
+  - first:
+      213: -2213569299396218052
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_2
+  - first:
+      213: 510763311000448403
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_3
+  - first:
+      213: -1207195417089903679
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_4
+  - first:
+      213: 782785715438140345
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_5
+  - first:
+      213: -5988905761668724630
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_6
+  - first:
+      213: -7424181684788045530
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_7
+  - first:
+      213: 1351028861662236885
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_8
+  - first:
+      213: -8150764022426676654
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_9
+  - first:
+      213: -8705620397165094914
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_10
+  - first:
+      213: -6062001511566559682
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_11
+  - first:
+      213: -3118080371440248503
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_12
+  - first:
+      213: -7685806047475352113
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_13
+  - first:
+      213: 867780231904884439
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_14
+  - first:
+      213: 1838049672822778376
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_15
+  - first:
+      213: -5771395179002304927
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_16
+  - first:
+      213: -4050911865667074188
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_17
+  - first:
+      213: -6432086758369681739
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_18
+  - first:
+      213: -64871734137719241
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_19
+  - first:
+      213: 7758763411187529574
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_20
+  - first:
+      213: 6851688297235551271
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_21
+  - first:
+      213: -6967460893534465163
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_22
+  - first:
+      213: -97840777029553594
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_23
+  - first:
+      213: 6151054076414571940
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_24
+  - first:
+      213: -6201276223495512940
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_25
+  - first:
+      213: -8814991845613615923
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_26
+  - first:
+      213: -8667951453700897949
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_27
+  - first:
+      213: 1476437119906953787
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_28
+  - first:
+      213: -6030957162534333201
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_29
+  - first:
+      213: 6945686846414273854
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_30
+  - first:
+      213: -3635213380830548146
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_31
+  - first:
+      213: 6325073961499383339
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_32
+  - first:
+      213: 43387310573192157
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_33
+  - first:
+      213: 354551878393410157
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_34
+  - first:
+      213: 574419190106008885
+    second: PC Computer - Moorhuhn Remake - Huhn on a Windmill_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7097
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ff3d6645970f770800000000000000
+      internalID: 8642541088333365124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 6896
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12c2fe4eec9c4940800000000000000
+      internalID: 5281769010339430939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 6696
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3337cf3372d741e0800000000000000
+      internalID: -2213569299396218052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 6496
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39deb747688961700800000000000000
+      internalID: 510763311000448403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 6295
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c370e50a2e2f3fe0800000000000000
+      internalID: -1207195417089903679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_5
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 6095
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbb0f7f5730dda00800000000000000
+      internalID: 782785715438140345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5895
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68027ab0f123eca0800000000000000
+      internalID: -5988905761668724630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5694
+        width: 95
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6295f3ab71208f890800000000000000
+      internalID: -7424181684788045530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5487
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d09da47791dfb210800000000000000
+      internalID: 1351028861662236885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 5275
+        width: 97
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25259336e4ba2ee80800000000000000
+      internalID: -8150764022426676654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5062
+        width: 97
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef754958f5c6f2780800000000000000
+      internalID: -8705620397165094914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4848
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36b13b3eb17fdba0800000000000000
+      internalID: -6062001511566559682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 4635
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9499f272c6a5ab4d0800000000000000
+      internalID: -3118080371440248503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4424
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdbea7fe18865590800000000000000
+      internalID: -7685806047475352113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4215
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6fbc1f589fa0c00800000000000000
+      internalID: 867780231904884439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 4009
+        width: 73
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aef146070128910800000000000000
+      internalID: 1838049672822778376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_16
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 3806
+        width: 62
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1666a21b9a2e7efa0800000000000000
+      internalID: -5771395179002304927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 3603
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477cf7eee1548c7c0800000000000000
+      internalID: -4050911865667074188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3402
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be91e20c23acb6a0800000000000000
+      internalID: -6432086758369681739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3203
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736f1c26087891ff0800000000000000
+      internalID: -64871734137719241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3003
+        width: 50
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 667712cf63aacab60800000000000000
+      internalID: 7758763411187529574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2806
+        width: 63
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7241d6c5436161f50800000000000000
+      internalID: 6851688297235551271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2611
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573d3768b3b9e4f90800000000000000
+      internalID: -6967460893534465163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2419
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642fa98e45664aef0800000000000000
+      internalID: -97840777029553594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2230
+        width: 85
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5b8e2c71fec5550800000000000000
+      internalID: 6151054076414571940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2042
+        width: 91
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c59786124a0f9a0800000000000000
+      internalID: -6201276223495512940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1855
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc44c38ce9bdaa580800000000000000
+      internalID: -8814991845613615923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1670
+        width: 94
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363c3dfd31045b780800000000000000
+      internalID: -8667951453700897949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1483
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a3141fcbb5d7410800000000000000
+      internalID: 1476437119906953787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_29
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1294
+        width: 93
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe41b8ff96cbd4ca0800000000000000
+      internalID: -6030957162534333201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1094
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d30a11369046060800000000000000
+      internalID: 6945686846414273854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 895
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f29d8b0b02d8dc0800000000000000
+      internalID: -3635213380830548146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_32
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 695
+        width: 79
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b265e3d914d27c750800000000000000
+      internalID: 6325073961499383339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 496
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3897277842a9000800000000000000
+      internalID: 43387310573192157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_34
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 296
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62361e0e0f9be400800000000000000
+      internalID: 354551878393410157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Huhn on a Windmill_35
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 96
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53daf62c53fb8f700800000000000000
+      internalID: 574419190106008885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

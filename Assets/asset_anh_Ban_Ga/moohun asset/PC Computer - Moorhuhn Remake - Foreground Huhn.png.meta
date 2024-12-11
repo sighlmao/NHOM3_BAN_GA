@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 1a9717da21447b647971a5a1640adc7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6157595058401984756
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_0
+  - first:
+      213: -7316993114948546083
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_1
+  - first:
+      213: 7682457578510168168
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_2
+  - first:
+      213: 7067671364621546610
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_3
+  - first:
+      213: 6113556156852825631
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_4
+  - first:
+      213: -564836429254182929
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_5
+  - first:
+      213: -8724723102693440211
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_6
+  - first:
+      213: -3465981928228628421
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_7
+  - first:
+      213: 6780632672982755199
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_8
+  - first:
+      213: 3888929636473435255
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_9
+  - first:
+      213: 7751675816983589541
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_10
+  - first:
+      213: 3533942830762279329
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_11
+  - first:
+      213: -7426348027219228024
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_12
+  - first:
+      213: -61956909589903184
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_13
+  - first:
+      213: 3664364885959033468
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_14
+  - first:
+      213: 8486494411627188183
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_15
+  - first:
+      213: -9104881997006899028
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_16
+  - first:
+      213: -8269594194996963594
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_17
+  - first:
+      213: 825568803067056983
+    second: PC Computer - Moorhuhn Remake - Foreground Huhn_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 6839
+        width: 124
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f040cec41c247550800000000000000
+      internalID: 6157595058401984756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6459
+        width: 232
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1538f6781d47a90800000000000000
+      internalID: -7316993114948546083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 6079
+        width: 268
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8603b19d6729d9a60800000000000000
+      internalID: 7682457578510168168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5699
+        width: 305
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274b775f8a9651260800000000000000
+      internalID: 7067671364621546610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_4
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5319
+        width: 310
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e6d930fe6b7d450800000000000000
+      internalID: 6113556156852825631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 4939
+        width: 307
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7ba1e924c4928f0800000000000000
+      internalID: -564836429254182929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4559
+        width: 309
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25405c409e8be680800000000000000
+      internalID: -8724723102693440211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4179
+        width: 312
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b385202cccb56efc0800000000000000
+      internalID: -3465981928228628421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3799
+        width: 312
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f776b81ad75a91e50800000000000000
+      internalID: 6780632672982755199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3419
+        width: 312
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774fc7266e048f530800000000000000
+      internalID: 3888929636473435255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3039
+        width: 310
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2fa4dd51c739b60800000000000000
+      internalID: 7751675816983589541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2659
+        width: 308
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1cf1ce7461b0130800000000000000
+      internalID: 3533942830762279329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2279
+        width: 312
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88acc23d0df40f890800000000000000
+      internalID: -7426348027219228024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1899
+        width: 312
+        height: 370
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8438cd482e32ff0800000000000000
+      internalID: -61956909589903184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_14
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1519
+        width: 310
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72c00bf2707ad230800000000000000
+      internalID: 3664364885959033468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1139
+        width: 308
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df406934b516c570800000000000000
+      internalID: 8486494411627188183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 759
+        width: 312
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8fd8e3016f4a180800000000000000
+      internalID: -9104881997006899028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 379
+        width: 312
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6d292d4ef7c3d80800000000000000
+      internalID: -8269594194996963594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Moorhuhn Remake - Foreground Huhn_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 0
+        width: 312
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753d47cc372057b00800000000000000
+      internalID: 825568803067056983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
